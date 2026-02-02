@@ -284,11 +284,11 @@ const architecture = {
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=ayushkumarshah1&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ayushks404&theme=tokyonight&hide_border=true)
   
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarshah1&custom_title=Ayush's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushks404&custom_title=Ayush's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -316,7 +316,7 @@ const architecture = {
   <table>
     <tr>
       <td>
-        <a href="https://github.com/ayushkumarshah1/codebae-ai-advisor">
+        <a href="https://github.com/ayushks404/codebae-ai-advisor">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah1&repo=codebae-ai-advisor&theme=tokyonight&hide_border=true&border_radius=15" />
         </a>
       </td>
