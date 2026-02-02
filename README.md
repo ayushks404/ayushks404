@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://github.com/ayushkumarshah1">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Ayush%20Kumar%20Sharma&description=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20AI%20Integration%20Expert%20%7C%20Building%20scalable%20applications%20with%20modern%20technologies,%20microservices,%20and%20AI-powered%20solutions.%20Passionate%20about%20competitive%20programming%20and%20creating%20innovative%20developer%20tools.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fayushkumarshah1&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&github=ayushkumarshah1&linkedin=ayush-sharma-5a2023256" alt="Ayush Kumar Sharma's Card" />
+  <a href="https://github.com/ayushks404">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Ayush%20Kumar%20Sharma&description=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20AI%20Integration%20Expert%20%7C%20Building%20scalable%20applications%20with%20modern%20technologies,%20microservices,%20and%20AI-powered%20solutions.%20Passionate%20about%20competitive%20programming%20and%20creating%20innovative%20developer%20tools.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fayushks404&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&github=ayushkumarshah1&linkedin=ayush-sharma-5a2023256" alt="Ayush Kumar Sharma's Card" />
   </a>
 </div>
 
-<h1 align="center">Hello <a href="https://github.com/ayushkumarshah1"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>, I'm Ayush Kumar Sharma</h1>
+<h1 align="center">Hello <a href="https://github.com/ayushks404"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>, I'm Ayush Kumar Sharma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;AI+Integration+Engineer;Microservices+Architect;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
   | GitHub | LinkedIn | LeetCode | Email |
   | --- | --- | --- | --- |
-  | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fayushkumarshah1&subtitle=@ayushkumarshah1&size=square)](https://github.com/ayushkumarshah1) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fayush-sharma-5a2023256&subtitle=@ayush-sharma&size=square)](https://linkedin.com/in/ayush-sharma-5a2023256) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2Fu%2Fayush_ks%2F&subtitle=@ayush_ks&size=square)](https://leetcode.com/u/ayush_ks/) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ayushks9415@gmail.com&size=square)](mailto:ayushks9415@gmail.com) |
+  | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fayushkumarshah1&subtitle=@ayushkumarshah1&size=square)](https://github.com/ayushks404) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fayush-sharma-5a2023256&subtitle=@ayush-sharma&size=square)](www.linkedin.com/in/ayush-kumar-sharma-037a21259) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2Fu%2Fayush_ks%2F&subtitle=@ayush_ks&size=square)](https://leetcode.com/u/ayush_me/) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ayushks9415@gmail.com&size=square)](mailto:ayushks9415@gmail.com) |
 
 </div>
 
@@ -39,7 +39,6 @@
 ```javascript
 const ayush = {
     role: "Full-Stack Developer",
-    location: "Bareilly, India 🇮🇳",
     education: "B.Tech in Computer Science @ MJPRU (2022-2026)",
     expertise: ["MERN Stack", "Microservices", "AI Integration", "RAG Pipelines"],
     currentFocus: ["Building AI-Powered Applications", "Scalable Backend Systems"],
@@ -135,7 +134,7 @@ tech_stack = {
 ---
 
 ### ⚔️ CodeClash - Competitive Programming Platform
-*Live Coding Arena with AI-Powered Feedback* • [🌐 Live Demo](https://codeclash-frontend.vercel.app/)
+*Live Coding Arena with AI-Powered Feedback* • [🌐 Live Demo](https://codeclash105737.vercel.app/)
 
 <table>
   <tr>
@@ -212,7 +211,6 @@ const architecture = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
