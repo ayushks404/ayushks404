@@ -298,17 +298,17 @@ const architecture = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayushkumarshah1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayushks404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarshah1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushks404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkumarshah1&theme=tokyonight&hide_border=true" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushks404&theme=tokyonight&hide_border=true" alt="Profile Details">
 </div>
 
 ### 🏆 Top Repositories
@@ -317,12 +317,12 @@ const architecture = {
     <tr>
       <td>
         <a href="https://github.com/ayushks404/codebae-ai-advisor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah1&repo=codebae-ai-advisor&theme=tokyonight&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushks404&repo=codebae-ai-advisor&theme=tokyonight&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/ayushkumarshah1/codeclash">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumarshah1&repo=codeclash&theme=tokyonight&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushks404&repo=codeclash&theme=tokyonight&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -337,7 +337,7 @@ const architecture = {
   <br>
   
   <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/ayushkumarshah1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Detailed GitHub Stats">
+    <img src="https://myreadme.vercel.app/api/embed/ayushks404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Detailed GitHub Stats">
   </div>
   
 </details>
@@ -552,7 +552,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/ayush-sharma-5a2023256">
+      <a href="www.linkedin.com/in/ayush-kumar-sharma-037a21259">
         <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
         <br>
         <strong>LinkedIn</strong>
@@ -561,7 +561,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ayushkumarshah1">
+      <a href="https://github.com/ayushks404">
         <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60" alt="GitHub"/>
         <br>
         <strong>GitHub</strong>
@@ -569,16 +569,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
         Follow me
       </a>
     </td>
-    <td align="center">
-      <a href="tel:9653033965">
-        <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="60" alt="Phone"/>
-        <br>
-        <strong>Phone</strong>
-        <br>
-        +91-965-303-3965
-      </a>
-    </td>
-  </tr>
+   
 </table>
 
 </div>
@@ -616,7 +607,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ### 🎯 GitHub Contribution Snake
 
-![Snake animation](https://github.com/ayushkumarshah1/ayushkumarshah1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayushks404/ayushks404/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -627,7 +618,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarshah1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushks404&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy">
 </div>
 
 ---
@@ -645,7 +636,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 <h3 align="center">
   
-⭐️ From [Ayush Kumar Sharma](https://github.com/ayushkumarshah1) | Let's build the future together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Ayush Kumar Sharma](https://github.com/ayushks404) | Let's build the future together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 </h3>
 
@@ -653,8 +644,8 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 **"Turning ideas into reality, one commit at a time"** 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/ayushkumarshah1?style=social)](https://github.com/ayushkumarshah1)
-[![GitHub stars](https://img.shields.io/github/stars/ayushkumarshah1?style=social)](https://github.com/ayushkumarshah1)
+[![GitHub followers](https://img.shields.io/github/followers/ayushks404?style=social)](https://github.com/ayushks404)
+[![GitHub stars](https://img.shields.io/github/stars/ayushks404?style=social)](https://github.com/ayushks404)
 
 </div>
 
