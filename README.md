@@ -22,7 +22,7 @@
 
   | GitHub | LinkedIn | LeetCode | Email |
   | --- | --- | --- | --- |
-  | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fayushkumarshah1&subtitle=@ayushkumarshah1&size=square)](https://github.com/ayushks404) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fayush-sharma-5a2023256&subtitle=@ayush-sharma&size=square)](www.linkedin.com/in/ayush-kumar-sharma-037a21259) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2Fu%2Fayush_ks%2F&subtitle=@ayush_ks&size=square)](https://leetcode.com/u/ayush_me/) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ayushks9415@gmail.com&size=square)](mailto:ayushks9415@gmail.com) |
+  | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fayushks404&subtitle=@ayushks404&size=square)](https://github.com/ayushks404) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fayush-sharma-5a2023256&subtitle=@ayush-sharma&size=square)](www.linkedin.com/in/ayush-kumar-sharma-037a21259) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2Fu%2Fayush_ks%2F&subtitle=@ayush_ks&size=square)](https://leetcode.com/u/ayush_me/) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ayushks9415@gmail.com&size=square)](mailto:ayushks9415@gmail.com) |
 
 </div>
 
