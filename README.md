@@ -38,10 +38,10 @@
 
 ```javascript
 const ayush = {
-    role: "Full-Stack Developer",
+    role: "Software Developer",
     education: "B.Tech in Computer Science @ MJPRU (2022-2026)",
     expertise: ["MERN Stack", "Microservices", "AI Integration", "RAG Pipelines"],
-    currentFocus: ["Building AI-Powered Applications", "Scalable Backend Systems"],
+    currentFocus: ["Scalable Backend Systems" ,"Building AI-Powered Applications"],
     passion: "Transforming complex problems into elegant solutions",
     
     techStack: {
@@ -49,7 +49,7 @@ const ayush = {
         backend: ["Node.js", "Express.js", "FastAPI"],
         databases: ["MongoDB", "MySQL", "Supabase"],
         ai_ml: ["LLM Integration", "RAG Pipelines", "Vector Databases", "FAISS"],
-        tools: ["Git", "Postman", "WebSocket", "Docker"],
+        tools: ["Git", "Docker", "Postman", "WebSocket"],
         cloud: ["Vercel", "Render", "Cloudinary"]
     },
     
@@ -93,10 +93,10 @@ const ayush = {
     <td width="50%">
       <h4>Revolutionary Features:</h4>
       <ul align="left">
+        <li>🏗️ <strong>Microservices</strong> - Node.js/Express + Python FastAPI architecture</li>
         <li>🔍 <strong>Semantic Code Search</strong> - FAISS vector indexing with SentenceTransformers</li>
         <li>🧠 <strong>RAG Pipeline</strong> - Context-aware code querying and analysis</li>
         <li>🗄️ <strong>Persistent Storage</strong> - Supabase for durable vector indexes</li>
-        <li>🏗️ <strong>Microservices</strong> - Node.js/Express + Python FastAPI architecture</li>
         <li>⚡ <strong>Real-time Processing</strong> - GitHub repo indexing on-the-fly</li>
       </ul>
     </td>
@@ -107,9 +107,9 @@ const ayush = {
 ```python
 tech_stack = {
     "backend": ["FastAPI", "Node.js", "Express.js"],
+    "database": [MongoDB", "Supabase", "Vector Storage"],
+    "architecture": "Microservices",
     "ai_ml": ["FAISS", "SentenceTransformers", "LLM Models"],
-    "database": ["Supabase", "Vector Storage"],
-    "architecture": "Microservices"
 }
 ```
 
