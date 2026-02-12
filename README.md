@@ -309,36 +309,6 @@ const architecture = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushks404&theme=tokyonight&hide_border=true" alt="Profile Details">
 </div>
 
-### 🏆 Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ayushks404/codebae-ai-advisor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushks404&repo=codebae-ai-advisor&theme=tokyonight&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ayushkumarshah1/codeclash">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushks404&repo=codeclash&theme=tokyonight&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Detailed Git Stats&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <br>
-  
-  <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/ayushks404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Detailed GitHub Stats">
-  </div>
-  
-</details>
 
 
 ### Problem Solving Skills
