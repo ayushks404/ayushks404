@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ayushks404">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Ayush%20Kumar%20Sharma&description=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20AI%20Integration%20Expert%20%7C%20Building%20scalable%20applications%20with%20modern%20technologies,%20microservices,%20and%20AI-powered%20solutions.%20Passionate%20about%20competitive%20programming%20and%20creating%20innovative%20developer%20tools.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fayushks404&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&github=ayushks404&linkedin=ayush-kumar-sharma" alt="Ayush Kumar Sharma's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Ayush%20Kumar%20Sharma&description=Software%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20AI%20Integration%20Expert%20%7C%20Building%20scalable%20applications%20with%20modern%20technologies,%20microservices,%20and%20AI-powered%20solutions.%20Passionate%20about%20competitive%20programming%20and%20creating%20innovative%20developer%20tools.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fayushks404&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&github=ayushks404&linkedin=ayush-kumar-sharma" alt="Ayush Kumar Sharma's Card" />
   </a>
 </div>
 
