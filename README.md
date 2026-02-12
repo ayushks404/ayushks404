@@ -292,18 +292,7 @@ const architecture = {
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayushks404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushks404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushks404&theme=tokyonight&hide_border=true" alt="Profile Details">
