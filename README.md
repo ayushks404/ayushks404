@@ -246,7 +246,7 @@ const architecture = {
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Specialized Skills:**
+**Learning Skills:**
 - 🧠 RAG Pipelines & Vector Databases
 - 🔍 FAISS Vector Indexing
 - 📊 Sentence Transformers
