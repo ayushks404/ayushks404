@@ -559,24 +559,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ---
 
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushks404&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy">
-</div>
-
----
-
-<div align="center">
-
-### 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
 
 <h3 align="center">
   
