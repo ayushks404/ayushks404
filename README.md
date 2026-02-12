@@ -340,28 +340,6 @@ const architecture = {
   
 </details>
 
----
-
-<h2 align="center">💪 Competitive Programming</h2>
-
-<div align="center">
-
-### LeetCode Journey
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ayush_ks?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/ayush_ks/)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Problems_Solved-200+-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Consistency-Daily-green?style=for-the-badge&logo=calendar&logoColor=white" alt="Consistency"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Topics-Data_Structures_&_Algorithms-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="Topics"/>
-    </td>
-  </tr>
-</table>
 
 ### Problem Solving Skills
 ```javascript
