@@ -59,7 +59,7 @@ const ayush = {
         projects: ["Codebae AI Advisor", "CodeClash Platform"]
     },
     
-    currentlyLearning: ["Advanced System Design", "Cloud Architecture", "AI/ML"],
+    currentlyLearning: ["Intermediate System Design", "Cloud Architecture", "AI/ML"],
     funFact: "I turn coffee into code and bugs into features! ☕→💻"
 };
 ```
