@@ -318,9 +318,9 @@ const problemSolvingStats = {
     focus: ["Data Structures", "Algorithms", "System Design"],
     expertise: {
         arrays: "Advanced",
-        graphs: "Advanced",
+        graphs: "Intermediate",
         dynamicProgramming: "Intermediate",
-        trees: "Advanced",
+        trees: "Intermediate",
         strings: "Advanced"
     },
 };
