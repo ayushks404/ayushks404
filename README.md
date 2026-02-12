@@ -67,7 +67,7 @@ const ayush = {
 
 <p align="center">
   <em>
-    Highly motivated Full-Stack Developer specializing in <strong>MERN Stack</strong> and <strong>AI Integration</strong>. 
+    Highly motivated Software Developer specializing in <strong>MERN Stack</strong> and <strong>AI Integration</strong>. 
     I build scalable, high-performance applications with modern architectures including microservices, 
     and real-time systems. Experienced in Agile methodologies, WebSocket implementations, 
     and integrating cutting-edge AI solutions to create feature-rich, production-ready applications.
