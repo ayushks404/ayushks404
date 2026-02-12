@@ -247,11 +247,10 @@ const architecture = {
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 **Learning Skills:**
-- 🧠 RAG Pipelines & Vector Databases
-- 🔍 FAISS Vector Indexing
-- 📊 Sentence Transformers
-- 🎯 LLM Integration & Fine-tuning
-- 💬 Conversational AI
+-  System Design
+-  Redis
+-  RAG Pipelines & Vector Databases
+-  LLM Integration 
 
 </div>
 
