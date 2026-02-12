@@ -54,7 +54,6 @@ const ayush = {
     },
     
     achievements: {
-        leetcode: "200+ Problems Solved",
         certifications: ["NPTEL - Graph Algorithms"],
         projects: ["Codebae AI Advisor", "CodeClash Platform"]
     },
