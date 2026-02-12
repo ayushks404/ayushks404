@@ -376,7 +376,6 @@ const problemSolvingStats = {
         trees: "Advanced",
         strings: "Advanced"
     },
-    approach: "Consistent daily practice + Contest participation"
 };
 ```
 
@@ -422,10 +421,9 @@ current_learning = {
     ],
     "next_certifications": [
         "AWS Solutions Architect",
-        "Advanced AI/ML Specialization",
         "System Design Expert"
     ],
-    "daily_routine": "LeetCode + Side Projects + Learning"
+    "daily_routine": "CodeChef + Side Projects + Learning"
 }
 ```
 
@@ -451,7 +449,7 @@ current_learning = {
       <br>
       <strong>📚 Learning</strong>
       <br>
-      <em>Advanced system design & cloud architecture</em>
+      <em>Intermediate system design & cloud architecture</em>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100" alt="Exploring"/>
@@ -488,7 +486,7 @@ current_learning = {
   </tr>
   <tr>
     <td>
-      ✅ Full-Stack Development (MERN)<br>
+      ✅ Software Development <br>
       ✅ Microservices Architecture<br>
       ✅ AI/ML Integration<br>
       ✅ RAG Pipeline Development<br>
